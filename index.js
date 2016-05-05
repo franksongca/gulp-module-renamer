@@ -1,7 +1,7 @@
 /**
- * Updated by crivas on 09/17/2015
- * Email: chester.rivas@gmail.com
- * Plugin Name: gulp-sass-packager
+ * Updated by frank song on 05/05/2016
+ * Email: wings.yu@gmail.com
+ * Plugin Name: gulp-module-renamer
  */
 
 'use strict';
@@ -34,9 +34,9 @@ var moduleRenamer = function (options) {
     return object.replace(/(?:angular\.module)(?:\(('|")(.*?)('|"))/gi, function (str) {
       if (options && options.showLogs) {
 
-        //gutil.log('------------------------');
-        //gutil.log('renaming after :', gutil.colors.cyan(object.substr(0,250) + ":" + str));
-        //gutil.log('------------------------');
+        gutil.log('------------------------');
+        gutil.log('renaming after :', gutil.colors.cyan(str));
+        gutil.log('------------------------');
       }
       return newModuleString;
     });
