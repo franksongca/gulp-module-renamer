@@ -5,7 +5,7 @@
       "/Users/frank.songmobilelive.ca/Projects/ute-ui-1.0A"
     ]
   ],
-  "_id": "gulp-ng-module-renamer@0.0.5",
+  "_id": "gulp-module-renamer@0.0.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/gulp-module-renamer",
@@ -34,7 +34,7 @@
   "_resolved": "https://github.com/franksongca/gulp-module-renamer.git.tgz",
   "_shasum": "468c72cbbac2c292e6377c02745d7d03e277eaaa",
   "_shrinkwrap": null,
-  "_spec": "gulp-ng-module-renamer@^0.0.5",
+  "_spec": "gulp-module-renamer@^0.0.0",
   "_where": "/Users/frank.songmobilelive.ca/Projects/ute-ui-1.0A",
   "author": {
     "name": "Chester Rivas"
@@ -59,13 +59,13 @@
     "tarball": "https://github.com/franksongca/gulp-module-renamer.git.tgz"
   },
   "gitHead": "e69d592e711b00ff32e2e5129c4797a39003c484",
-  "homepage": "https://github.com/crivas/gulp-ng-module-renamer#readme",
+  "homepage": "https://github.com/franksongca/gulp-module-renamer/blob/master/README.md",
   "license": "MIT",
   "main": "index.js",
   "maintainers": [
     {
-      "name": "crivas",
-      "email": "chester.rivas@gmail.com"
+      "name": "franksong",
+      "email": "wings.yu@gmail.com"
     }
   ],
   "name": "gulp-module-renamer",
