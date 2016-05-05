@@ -1,18 +1,17 @@
 {
   "_args": [
     [
-      "gulp-ng-module-renamer@^0.0.5",
+      "gulp-module-renamer",
       "/Users/frank.songmobilelive.ca/Projects/ute-ui-1.0A"
     ]
   ],
-  "_from": "gulp-ng-module-renamer@>=0.0.5 <0.0.6",
   "_id": "gulp-ng-module-renamer@0.0.5",
   "_inCache": true,
   "_installable": true,
-  "_location": "/gulp-ng-module-renamer",
+  "_location": "/gulp-module-renamer",
   "_nodeVersion": "0.12.0",
   "_npmUser": {
-    "email": "chester.rivas@gmail.com",
+    "email": "wings.yu@gmail.com",
     "name": "crivas"
   },
   "_npmVersion": "2.14.3",
@@ -23,17 +22,16 @@
     "xtend": "4.0.1"
   },
   "_requested": {
-    "name": "gulp-ng-module-renamer",
-    "raw": "gulp-ng-module-renamer@^0.0.5",
-    "rawSpec": "^0.0.5",
+    "name": "gulp-module-renamer",
+    "raw": "gulp-module-renamer",
+    "rawSpec": "^0.0.0",
     "scope": null,
-    "spec": ">=0.0.5 <0.0.6",
     "type": "range"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/gulp-ng-module-renamer/-/gulp-ng-module-renamer-0.0.5.tgz",
+  "_resolved": "https://github.com/franksongca/gulp-module-renamer.git.tgz",
   "_shasum": "468c72cbbac2c292e6377c02745d7d03e277eaaa",
   "_shrinkwrap": null,
   "_spec": "gulp-ng-module-renamer@^0.0.5",
@@ -42,7 +40,7 @@
     "name": "Chester Rivas"
   },
   "bugs": {
-    "url": "https://github.com/crivas/gulp-ng-module-renamer/issues"
+    "url": "https://github.com/franksongca/gulp-module-renamer.git/issues"
   },
   "dependencies": {
     "gulp-util": "^3.0.6",
@@ -58,7 +56,7 @@
   "directories": {},
   "dist": {
     "shasum": "468c72cbbac2c292e6377c02745d7d03e277eaaa",
-    "tarball": "https://registry.npmjs.org/gulp-ng-module-renamer/-/gulp-ng-module-renamer-0.0.5.tgz"
+    "tarball": "https://github.com/franksongca/gulp-module-renamer.git.tgz"
   },
   "gitHead": "e69d592e711b00ff32e2e5129c4797a39003c484",
   "homepage": "https://github.com/crivas/gulp-ng-module-renamer#readme",
@@ -70,13 +68,13 @@
       "email": "chester.rivas@gmail.com"
     }
   ],
-  "name": "gulp-ng-module-renamer",
+  "name": "gulp-module-renamer",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crivas/gulp-ng-module-renamer.git"
+    "url": "git+https://github.com/franksongca/gulp-module-renamer.git"
   },
   "scripts": {},
-  "version": "0.0.5"
+  "version": "0.0.0"
 }

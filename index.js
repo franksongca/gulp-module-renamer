@@ -53,7 +53,7 @@ var moduleRenamer = function (options) {
 
     if (file.isStream()) {
 
-      this.emit('error', new gutil.PluginError('gulp-ng-module-renamer', 'Streams are not supported!'));
+      this.emit('error', new gutil.PluginError('gulp-module-renamer', 'Streams are not supported!'));
       callback();
 
     } else if (file.isNull()) {
